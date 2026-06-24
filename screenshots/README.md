@@ -1,16 +1,14 @@
 ## Screenshots
+### Main menu
+![Main menu](screenshots/menu.png)
 
-### Add Patient
-![Add Patient](screenshots/add_patient.png)
-
-### Patient Allocation
-![Patient Allocation](screenshots/allocation.png)
+### Add and Alocate Patient
+![Add Patient](screenshots/Add and Allocate.png)
 
 ### Hospital Status
-![Hospital Status](screenshots/hospitals.png)
+![Hospital Status](screenshots/Hospital Status.png)
 
-### Waiting Patients
-![Waiting Patients](screenshots/waiting.png)
+### Discharge and Waiting Patients
+![Waiting Patients](screenshots/Discharge and Waiting.png)
 
-### Patient Discharge
-![Patient Discharge](screenshots/discharge.png)
+
