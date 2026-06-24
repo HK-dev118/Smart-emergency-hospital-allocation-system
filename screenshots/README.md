@@ -3,12 +3,12 @@
 ![Main menu](screenshots/menu.png)
 
 ### Add and Alocate Patient
-![Add Patient](screenshots/Add and Allocate.png)
+![Add Patient](screenshots/AddandAllocate.png)
 
 ### Hospital Status
-![Hospital Status](screenshots/Hospital Status.png)
+![Hospital Status](screenshots/HospitalStatus.png)
 
 ### Discharge and Waiting Patients
-![Waiting Patients](screenshots/Discharge and Waiting.png)
+![Waiting Patients](screenshots/DischargeandWaiting.png)
 
 
